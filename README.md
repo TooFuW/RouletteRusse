@@ -1,3 +1,5 @@
-# Jeu de roulette russe inspiré de Buckshot Roulette en python
+# Russian roulette game inspired by Buckshot Roulette in python
 
-Jeu de roulette russe inspiré de Buckshot Roulette en python dans le terminal et avec interface tkinter
+Russian roulette game inspired by Buckshot Roulette in python in the terminal and with tkinter interface
+
+Code in French
